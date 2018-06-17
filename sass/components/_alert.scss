@@ -4,10 +4,12 @@
 .alert {
 
   &--error {
-    
+    @include alert($pink, $white)
+
   }
 
   &--success {
+    @include alert($green, $black)
 
   }
 
