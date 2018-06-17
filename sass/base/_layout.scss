@@ -2,7 +2,14 @@
 // This is where your layout of the project will go
 // ========================================
 
+body {
+  background-color: $white;
+}
+
 .header {
+  &_img {
+    width: 20%;
+  }
 
 }
 
