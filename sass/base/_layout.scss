@@ -25,9 +25,79 @@ body {
   }
 }
 
+.colors {
+  display: inline-flex;
+  font-family: $secondary-font;
+
+  &_item {
+    background-color: beige;
+    padding: 5%;
+    margin: 5%;
+    flex-grow: 1;
+
+    &-blue {
+      background-color: $blue;
+      height: 200px;
+      width: 200px;
+      justify-content: space-around;
+    }
+
+    &-purple {
+      background-color: $purple;
+      height: 200px;
+      width: 200px;
+      justify-content: space-around;
+    }
+
+    &-grey {
+      background-color: $grey;
+      height: 200px;
+      width: 200px;
+      justify-content: space-around;
+    }
+
+    &-green {
+      background-color: $green;
+      height: 200px;
+      width: 200px;
+      justify-content: space-around;
+    }
+
+    &-pink {
+      background-color: $pink;
+      height: 200px;
+      width: 200px;
+      justify-content: space-around;
+    }
+
+    &-black {
+      background-color: $black;
+      height: 200px;
+      width: 200px;
+      justify-content: space-around;
+    }
+
+    &-darkgrey {
+      background-color: $darkgrey;
+      height: 200px;
+      width: 200px;
+      justify-content: space-around;
+    }
+
+    &-white {
+      background-color: $white;
+      height: 200px;
+      width: 200px;
+      justify-content: space-around;
+    }
+  }
+}
+
 .item-container {
     margin: $spacer-m $reset-0;
 }
+
+
 
 .footer {
 
