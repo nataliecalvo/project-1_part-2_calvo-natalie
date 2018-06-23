@@ -28,68 +28,82 @@ body {
 .colors {
   display: inline-flex;
   font-family: $secondary-font;
+  align-items: center;
+  width: 100%;
+  justify-content: space-around;
+  text-align: center;
 
-  &_item {
-    background-color: beige;
-    padding: 5%;
+  &-blue {
+    background-color: $blue;
+    height: 200px;
+    width: 200px;
+    justify-content: space-around;
+    border-radius: 50%;
+    border: 1px solid $black;
     margin: 5%;
-    flex-grow: 1;
+  }
 
-    &-blue {
-      background-color: $blue;
-      height: 200px;
-      width: 200px;
-      justify-content: space-around;
-    }
+  &-purple {
+    background-color: $purple;
+    height: 200px;
+    width: 200px;
+    justify-content: space-around;
+    border-radius: 50%;
+    border: 1px solid $black;
+  }
 
-    &-purple {
-      background-color: $purple;
-      height: 200px;
-      width: 200px;
-      justify-content: space-around;
-    }
+  &-grey {
+    background-color: $grey;
+    height: 200px;
+    width: 200px;
+    justify-content: space-around;
+    border-radius: 50%;
+    border: 1px solid $black;
+  }
 
-    &-grey {
-      background-color: $grey;
-      height: 200px;
-      width: 200px;
-      justify-content: space-around;
-    }
+  &-green {
+    background-color: $green;
+    height: 200px;
+    width: 200px;
+    justify-content: space-around;
+    border-radius: 50%;
+    border: 1px solid $black;
+  }
 
-    &-green {
-      background-color: $green;
-      height: 200px;
-      width: 200px;
-      justify-content: space-around;
-    }
+  &-pink {
+    background-color: $pink;
+    height: 200px;
+    width: 200px;
+    justify-content: space-around;
+    border-radius: 50%;
+    border: 1px solid $black;
+  }
 
-    &-pink {
-      background-color: $pink;
-      height: 200px;
-      width: 200px;
-      justify-content: space-around;
-    }
+  &-black {
+    background-color: $black;
+    height: 200px;
+    width: 200px;
+    justify-content: space-around;
+    border-radius: 50%;
+    border: 1px solid $black;
+  }
 
-    &-black {
-      background-color: $black;
-      height: 200px;
-      width: 200px;
-      justify-content: space-around;
-    }
+  &-darkgrey {
+    background-color: $darkgrey;
+    height: 200px;
+    width: 200px;
+    justify-content: space-around;
+    border-radius: 50%;
+    border: 1px solid $black;
+  }
 
-    &-darkgrey {
-      background-color: $darkgrey;
-      height: 200px;
-      width: 200px;
-      justify-content: space-around;
-    }
-
-    &-white {
-      background-color: $white;
-      height: 200px;
-      width: 200px;
-      justify-content: space-around;
-    }
+  &-white {
+    background-color: $white;
+    height: 200px;
+    width: 200px;
+    justify-content: space-around;
+    border-radius: 50%;
+    border: 1px solid $black;
   }
 }
 
