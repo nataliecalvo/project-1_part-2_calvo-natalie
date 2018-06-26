@@ -1,6 +1,7 @@
 # Project 1 - Part 2
 
 [My Git Repository](https://github.com/nataliecalvo/project-1_part-2_calvo-natalie)
+[The Link to My Pattern Library](http://nataliecalvo.com/project-1_part-2_calvo-natalie/elements.html)
 
 ###Resources
 I used these resources to help with my code"
