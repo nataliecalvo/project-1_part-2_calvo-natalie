@@ -10,7 +10,6 @@ body {
   &_img {
     width: 20%;
   }
-
 }
 
 .main {
@@ -18,10 +17,6 @@ body {
 
   &__section {
     margin: $spacer-lg $reset-0;
-
-    &--index {
-
-    }
   }
 }
 
@@ -108,10 +103,4 @@ body {
 
 .item-container {
     margin: $spacer-m $reset-0;
-}
-
-
-
-.footer {
-
 }

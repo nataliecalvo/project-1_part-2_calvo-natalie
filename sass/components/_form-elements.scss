@@ -5,6 +5,22 @@
 
 
 // Basic Form Input Styling
+.form {
+  font-family: $secondary-font;
+  color: $purple;
 
+  &_selection {
+    padding: 5% 1% 5%;
+  }
+
+  &_text {
+    padding: 1% 1% 5%;
+  }
+
+  &_error {
+    padding: 5% 1% 5%;
+  }
+
+}
 
 // Select Form Input Styling
