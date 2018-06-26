@@ -10,15 +10,21 @@
   color: $purple;
 
   &_selection {
-    padding: 5% 1% 5%;
+    padding: 1%;
   }
 
   &_text {
-    padding: 1% 1% 5%;
+    padding: 1%;
   }
 
   &_error {
-    padding: 5% 1% 5%;
+    padding: 1%;
+    &-email {
+      border-style: none;
+      border-width: 2px;
+      border-color: $pink;
+      border-bottom-style: solid;
+    }
   }
 
 }
