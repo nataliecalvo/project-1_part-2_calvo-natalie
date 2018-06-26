@@ -1,22 +1,17 @@
 # Project 1 - Part 2
 
-Remove all contents from here down when you submit your project.
+[My Git Repository](https://github.com/nataliecalvo/project-1_part-2_calvo-natalie)
 
----
+###Resources
+I used these resources to help with my code"
+- [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp)
+I used this website to refresh my knowledge of flexbox in collaboration with my notes from Advanced Web I.
 
-1. Clone this repository
-2. Remove the existing .git folder (`rm -rf .git` in your terminal)
-3. Create a new Git repo in your project (`git init`)
-4. Update your .EditorConfig file with (at least) the following properties:
- * indent_style
- * insert_final_newline
- * trim_trailing_whitespace
-5. Add all existing files to the repo with a commit message of “initial commit”.
-6. Create a Repository on Github called `project-1_part-2_lastname-firstname`
-7. Push your existing repository from the command line
-8. Follow the directions for Project 1 - Part 2.
+-[Buttons](https://www.w3schools.com/Css/css3_buttons.asp)
+I used this website to refresh my knowledge of buttons in collaboration with my notes from Advanced Web I.
 
----
+-[Border Properties](https://www.w3schools.com/css/css_border.asp)
+I used this website to refresh my knowledge of border properties in collaboration with my notes from my Introduction to Web Principles course.
 
-To get Sass running:
-Use `sass --watch sass:css --style compressed` on your command line
+-[Opacity Property](https://www.w3schools.com/CSSref/css3_pr_opacity.asp)
+I used this website to refresh my knowledge of opacity in collaboration with my notes from my Web Principles course.
